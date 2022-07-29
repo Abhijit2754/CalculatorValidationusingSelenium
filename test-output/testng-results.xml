@@ -2,56 +2,56 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-07-25T23:44:15 IST" name="Default suite" finished-at="2022-07-25T23:44:52 IST" duration-ms="37233">
+  <suite started-at="2022-07-26T23:55:53 IST" name="Default suite" finished-at="2022-07-26T23:56:33 IST" duration-ms="40377">
     <groups>
     </groups>
-    <test started-at="2022-07-25T23:44:15 IST" name="Default test" finished-at="2022-07-25T23:44:52 IST" duration-ms="37233">
+    <test started-at="2022-07-26T23:55:53 IST" name="Default test" finished-at="2022-07-26T23:56:33 IST" duration-ms="40377">
       <class name="TestCase.TestCase">
-        <test-method is-config="true" signature="init()[pri:0, instance:TestCase.TestCase@18d87d80]" started-at="2022-07-25T23:44:15 IST" name="init" finished-at="2022-07-25T23:44:20 IST" duration-ms="4588" status="PASS">
+        <test-method is-config="true" signature="init()[pri:0, instance:TestCase.TestCase@18d87d80]" started-at="2022-07-26T23:55:53 IST" name="init" finished-at="2022-07-26T23:56:00 IST" duration-ms="7177" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method signature="multiplication()[pri:1, instance:TestCase.TestCase@18d87d80]" started-at="2022-07-25T23:44:20 IST" name="multiplication" finished-at="2022-07-25T23:44:24 IST" duration-ms="4670" status="PASS">
+        <test-method signature="multiplication()[pri:1, instance:TestCase.TestCase@18d87d80]" started-at="2022-07-26T23:56:00 IST" name="multiplication" finished-at="2022-07-26T23:56:05 IST" duration-ms="4831" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- multiplication -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCase.TestCase@18d87d80]" started-at="2022-07-25T23:44:24 IST" name="tearDown" finished-at="2022-07-25T23:44:25 IST" duration-ms="106" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCase.TestCase@18d87d80]" started-at="2022-07-26T23:56:05 IST" name="tearDown" finished-at="2022-07-26T23:56:05 IST" duration-ms="182" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="init()[pri:0, instance:TestCase.TestCase@18d87d80]" started-at="2022-07-25T23:44:25 IST" name="init" finished-at="2022-07-25T23:44:28 IST" duration-ms="3140" status="PASS">
+        <test-method is-config="true" signature="init()[pri:0, instance:TestCase.TestCase@18d87d80]" started-at="2022-07-26T23:56:05 IST" name="init" finished-at="2022-07-26T23:56:08 IST" duration-ms="2964" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method signature="division()[pri:2, instance:TestCase.TestCase@18d87d80]" started-at="2022-07-25T23:44:28 IST" name="division" finished-at="2022-07-25T23:44:33 IST" duration-ms="4888" status="PASS">
+        <test-method signature="division()[pri:2, instance:TestCase.TestCase@18d87d80]" started-at="2022-07-26T23:56:08 IST" name="division" finished-at="2022-07-26T23:56:13 IST" duration-ms="4678" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- division -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCase.TestCase@18d87d80]" started-at="2022-07-25T23:44:33 IST" name="tearDown" finished-at="2022-07-25T23:44:33 IST" duration-ms="98" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCase.TestCase@18d87d80]" started-at="2022-07-26T23:56:13 IST" name="tearDown" finished-at="2022-07-26T23:56:13 IST" duration-ms="86" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="init()[pri:0, instance:TestCase.TestCase@18d87d80]" started-at="2022-07-25T23:44:33 IST" name="init" finished-at="2022-07-25T23:44:36 IST" duration-ms="3078" status="PASS">
+        <test-method is-config="true" signature="init()[pri:0, instance:TestCase.TestCase@18d87d80]" started-at="2022-07-26T23:56:13 IST" name="init" finished-at="2022-07-26T23:56:17 IST" duration-ms="3526" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method signature="addition()[pri:3, instance:TestCase.TestCase@18d87d80]" started-at="2022-07-25T23:44:36 IST" name="addition" finished-at="2022-07-25T23:44:42 IST" duration-ms="6620" status="PASS">
+        <test-method signature="addition()[pri:3, instance:TestCase.TestCase@18d87d80]" started-at="2022-07-26T23:56:17 IST" name="addition" finished-at="2022-07-26T23:56:23 IST" duration-ms="6628" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addition -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCase.TestCase@18d87d80]" started-at="2022-07-25T23:44:42 IST" name="tearDown" finished-at="2022-07-25T23:44:42 IST" duration-ms="69" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCase.TestCase@18d87d80]" started-at="2022-07-26T23:56:23 IST" name="tearDown" finished-at="2022-07-26T23:56:23 IST" duration-ms="108" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="init()[pri:0, instance:TestCase.TestCase@18d87d80]" started-at="2022-07-25T23:44:42 IST" name="init" finished-at="2022-07-25T23:44:45 IST" duration-ms="2949" status="PASS">
+        <test-method is-config="true" signature="init()[pri:0, instance:TestCase.TestCase@18d87d80]" started-at="2022-07-26T23:56:23 IST" name="init" finished-at="2022-07-26T23:56:26 IST" duration-ms="3119" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method signature="substraction()[pri:4, instance:TestCase.TestCase@18d87d80]" started-at="2022-07-25T23:44:45 IST" name="substraction" finished-at="2022-07-25T23:44:52 IST" duration-ms="6892" status="PASS">
+        <test-method signature="substraction()[pri:4, instance:TestCase.TestCase@18d87d80]" started-at="2022-07-26T23:56:26 IST" name="substraction" finished-at="2022-07-26T23:56:33 IST" duration-ms="6930" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- substraction -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCase.TestCase@18d87d80]" started-at="2022-07-25T23:44:52 IST" name="tearDown" finished-at="2022-07-25T23:44:52 IST" duration-ms="92" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCase.TestCase@18d87d80]" started-at="2022-07-26T23:56:33 IST" name="tearDown" finished-at="2022-07-26T23:56:33 IST" duration-ms="104" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
