@@ -23,7 +23,7 @@ public class TestCase extends init {
 	{
     	ObjectClassModel obj = new ObjectClassModel(driver);
     	
-    	obj.calculation(423,526,'×'); // Multiplication
+    	obj.calculation(423,526,'ï¿½'); // Multiplication
     	Thread.sleep(3000);
 	}
     
@@ -52,7 +52,7 @@ public class TestCase extends init {
 	{	
     	ObjectClassModel obj = new ObjectClassModel(driver);
     	
-    	obj.calculation(234823,-23094823,'–'); // Substraction
+    	obj.calculation(234823,-23094823,'ï¿½'); // Substraction
     	
     	Thread.sleep(3000);
 	}
@@ -62,4 +62,6 @@ public class TestCase extends init {
     {
     	driver.close();
     }
+
+	// cdcdcccccccccccccccc
 }
